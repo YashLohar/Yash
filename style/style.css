@@ -1,0 +1,303 @@
+.container{
+    width: 1316px;
+    background-color: cornflowerblue;
+    margin: 0px auto;
+}
+.master{
+    width: 1316px;
+    height: 54px;
+    background-color: white;
+    margin: 0 auto;
+}
+.header{
+    width: 1184.405px;
+    height: 54px;
+    margin-left: 65.797px;
+    margin-right: 65.797px;
+    float: left;
+}
+.logo{
+    width: 137px;
+    height: 50px;
+    float: left; 
+    margin-bottom: 10px;
+
+}
+.microsoft{
+    width: 147.97px;
+    height: 54px;
+    float: left;
+}
+.line{
+    width: 4px;
+    height: 30px;
+    background-color: #000;
+    float: left;
+    margin-left: 5px;
+    margin-top: 10px;
+    border-radius: 2px;
+}
+h3{
+    font-size: 20px;
+    float: right;
+    font-family:Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: 10px;
+    color: #000;
+    font-weight:500;
+}
+.navbar{
+    width: 686.281px;
+    height:52px;
+    float: left;
+}
+li{
+    font-size: 13px;
+    display: inline;
+    margin-left: 25px;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    font-family:Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.section1{
+    width: 1316px;
+    height: 485.016px;
+    background-color: rgb(233, 233, 233);
+    padding-top: 40px;
+    float: left;
+}
+.login{
+    width: 658px;
+    height: 484px;
+    background-color:rgb(233, 233, 233);
+    float: left;
+}
+.image1{
+    width: 658px;
+    height: 484px;
+    float:left;
+}
+.content{
+    width: 550px;
+    height: 453px;
+    margin-left: 70px;
+    float: left;
+}
+h1{
+    color:#0078d4;
+    font-family:Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    font-weight: 600;
+    font-size: 35px;
+}
+p{
+    margin-top: 0px;
+    font-family:Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-left: 20px;
+    font-weight: 400;
+    font-size: 25px;
+}
+.containerbtn{
+    margin-left: 90px;
+    border:1px solid black;
+    width: 400px;
+    height: 200px;
+    margin-top: 200px;
+    position: relative;
+}
+.signin{
+    width: 200px;
+    height: 50px;
+    background-color: #0078d4;
+    position: relative;
+}
+
+input[type=submit]{
+   margin-left: 20px;
+   width: 230px;
+   height: 40px;
+   font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+   font-weight: bold;
+   font-size: 15px;
+   color: white;
+   background-color: #0078d4;
+   border: none;
+}
+
+input[type=reset]{
+    margin-left: 20px;
+    width: 230px;
+    height: 40px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: #0078d4;
+    border:2px solid #0078d4;
+ }
+ #see{
+     margin-left: 20px;
+     font-family:Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+     font-weight: 500;
+     font-size: 15px;
+     color: #0078d4;
+ }
+ .img1{
+        width: 659px;
+        margin-top: 60px;  
+ }
+ .section2{
+    width: 1316px;
+    height: 300.016px;
+    background-color: rgb(233, 233, 233);
+    padding-top: 30px;
+    float: left;
+}
+.h1{
+    font-weight: 600;
+    font-size: 34px;
+    color: #000;
+    font-family:Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align: center;
+    margin-top: 0px;
+}
+.box1{
+       width: 300px;
+       height: 200px;
+       margin-top: 40px;
+       float: left;
+       margin-right: 70px;
+       margin-left: 65px;
+}
+.box2{
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
+    float: left;
+    margin-right: 70px;
+    margin-left: 65px;
+}
+.box3{
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
+    float: left;
+    margin-right: 70px;
+    margin-left: 65px;
+}
+.pic{
+    margin-top: 10px;
+    margin-left: 135px;
+}
+.h4{
+    margin-left:80px;
+    font-family:Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 0px;  
+}
+.p{
+    font-size:13px;
+    text-align:center;
+}
+.section3{
+    width: 1316px;
+    height: 485.016px;
+    background-color: rgb(233, 233, 233);
+    padding-top: 40px;
+    float: left;
+}
+.img2{
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 500px;
+
+}
+.box7{
+    margin-top: 40px;
+    margin-left: 100px;
+    width: 500px;
+    float: left;
+}
+h6{
+    display: inline;
+}
+.p1{
+    font-family:Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 30px;
+    font-weight:600;
+}
+.text{
+    width: 450px;
+    height: 200px;
+    float:right;
+    margin-right: 100px;
+    margin-top: 150px;
+}
+.p2{
+    margin-top: 0px;
+    font-size: 15px;
+    text-align: left;
+}
+.section4{
+    width: 1316px;
+    height: 485.016px;
+    background-color: white;
+    float: left;
+}
+.text2{
+    width: 500px;
+    height: 200px;
+    margin-top: 130px;
+    margin-left: 70px;
+    float: left;
+}
+.p3{
+    font-family:Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 30px;
+    font-weight:600;
+}
+.p4{
+    margin-top: 0px;
+    font-size: 15px;
+    text-align: left;
+}
+.img3{
+    width: 550px;
+    height: 300px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+.img4{
+    width: 550px;
+}
+.section5{
+    width: 1316px;
+    height: 350px;
+    background-color:#0078d4;
+    float: left;
+}
+.h9{
+    font-weight: 600;
+    font-size: 34px;
+    color: white;
+    font-family:Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+.section5 input[type=submit]{
+    background-color: white;
+    border:none;
+    margin-top: 50px;
+    margin-left: 400px;
+    color:#0078d4;font-weight: 600;
+}
+.section5 input[type=reset]{
+    background-color: white;
+    border:none;
+    margin-top: 50px;
+    margin-right: 350px;
+    color:#0078d4;font-weight: 600;
+}
